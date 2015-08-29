@@ -36,13 +36,17 @@ header h2 {
 	margin: 6% 10% 3%;
 }
 
+.intro p{
+	padding-top: 5%;
+}
+
 .toc{
 	margin: 3% 10% 3%;
 }
 
 .toc h2{
 	margin: 5%;
-	margin-top: 15%;
+	margin-top: 10%;
 }
 
 footer{
